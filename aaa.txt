@@ -5,3 +5,4 @@ B is also modifying
 
 New Line added by A 
 
+B adding a new line
