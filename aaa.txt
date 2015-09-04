@@ -1,3 +1,7 @@
 aaa
 
+<<<<<<< HEAD
 Here user B adds some text
+=======
+Adding some text by user A
+>>>>>>> b55dca71474927b466b39200f06727b4ea235dcd
