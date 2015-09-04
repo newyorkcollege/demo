@@ -2,3 +2,6 @@ aaa
 
 Adding some text by user A
 B is also modifying
+
+New Line added by A 
+
