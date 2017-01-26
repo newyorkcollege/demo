@@ -3,9 +3,11 @@ aaa - bbbb
 Adding some text by user A
 B is also modifying
 
-New Line added by A 
+New Line added by A
 
 B adding a new line
 and another one
 
 This a new line for a new test
+
+Adding a new line
