@@ -11,3 +11,7 @@ and another one
 This a new line for a new test
 
 Adding a new line
+
+
+Another line added
+
