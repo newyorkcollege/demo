@@ -1,3 +1,3 @@
 hello, i made some mistakes in the first upload, so i gave it a second try,
 where i deleted the nano.save file and the extra member file and i modified 
-what i was suppose to.
+what i was supposed to.
