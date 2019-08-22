@@ -1,4 +1,5 @@
 New addition 22-Aug-2019 ...
+more text here.
 
 Added something for S.E.
 
@@ -7,8 +8,6 @@ New entry as ESC Software Engineering demo
 Some change happened here ...
 
 New data by SummerOfCode 18
-
-Aaalakdhklsadhsalkdaslkd alsknakldnsal
 
 Blah
 
