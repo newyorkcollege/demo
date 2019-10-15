@@ -8,35 +8,3 @@ New entry as ESC Software Engineering demo
 
 Some change happened here ...
 
-New data by SummerOfCode 18
-
-Blah
-
-Another UNYT line
-A new line added in UNYT
-
-Adding a line at UNYT
-and will add more ...
-Adding a line at UNYT (OK)
-
-aaa - bbbb
-
-Adding some text by user A
-B is also modifying
-
-New Line added by A
-
-B adding a new line
-and another one
-
-This a new line for a new test
-
-Adding a new line
-
-
-Another line added
-
-Added one more line here.
-
-A new LINE ...
-And a new one ...
